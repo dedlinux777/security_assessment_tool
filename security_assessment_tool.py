@@ -167,7 +167,7 @@ def log_analysis():
     # Iterate through the events
     while events:
         for event in events:
-            if event.EventID == 4624:  # Failed logon event ID
+            if event.EventID == 4625:  # Failed logon event ID
                 ip_address = event.StringInserts[18]
 
                 if ip_address not in failed_attempts:
