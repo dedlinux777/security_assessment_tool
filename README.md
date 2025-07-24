@@ -1,7 +1,7 @@
 
 # Security Assessment Tool
 
-This Python script is a versatile security assessment tool designed for scanning and analyzing the security posture of target systems. It incorporates functionalities such as port scanning, vulnerability scanning, log analysis, and password strength checking to provide comprehensive security assessments.
+This Python script is a security assessment tool designed for windows systems for scanning and analyzing the security of target systems. It includes functionalities such as port scanning, vulnerability scanning, log analysis, and password strength checking to provide comprehensive security assessments.
 
 ## Features
 
