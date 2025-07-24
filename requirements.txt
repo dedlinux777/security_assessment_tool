@@ -1,0 +1,4 @@
+colorama
+vulners
+pywin32
+requests
